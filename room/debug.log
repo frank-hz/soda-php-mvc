@@ -1,0 +1,301 @@
+[03-Mar-2024 16:57:22 America/Lima] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in C:\xampp\htdocs\soda-php-mvc\libs\controller.php on line 9
+[03-Mar-2024 16:57:22 America/Lima] PHP Fatal error:  Uncaught Error: Cannot access parent:: when current class scope has no parent in C:\xampp\htdocs\soda-php-mvc\libs\controller.php:9
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\controllers\Home.php(8): Libs\Controller->__construct()
+#1 C:\xampp\htdocs\soda-php-mvc\libs\app.php(28): Controllers\Home->__construct()
+#2 C:\xampp\htdocs\soda-php-mvc\index.php(41): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\controller.php on line 9
+[03-Mar-2024 16:57:48 America/Lima] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in C:\xampp\htdocs\soda-php-mvc\libs\controller.php on line 9
+[03-Mar-2024 16:57:48 America/Lima] PHP Fatal error:  Uncaught Error: Cannot access parent:: when current class scope has no parent in C:\xampp\htdocs\soda-php-mvc\libs\controller.php:9
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\controllers\Home.php(8): Libs\Controller->__construct()
+#1 C:\xampp\htdocs\soda-php-mvc\libs\app.php(28): Controllers\Home->__construct()
+#2 C:\xampp\htdocs\soda-php-mvc\index.php(41): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\controller.php on line 9
+[03-Mar-2024 16:57:55 America/Lima] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in C:\xampp\htdocs\soda-php-mvc\libs\controller.php on line 9
+[03-Mar-2024 16:57:55 America/Lima] PHP Fatal error:  Uncaught Error: Cannot access parent:: when current class scope has no parent in C:\xampp\htdocs\soda-php-mvc\libs\controller.php:9
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\controllers\Home.php(8): Libs\Controller->__construct()
+#1 C:\xampp\htdocs\soda-php-mvc\libs\app.php(28): Controllers\Home->__construct()
+#2 C:\xampp\htdocs\soda-php-mvc\index.php(41): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\controller.php on line 9
+[03-Mar-2024 16:58:04 America/Lima] PHP Deprecated:  Cannot use "parent" when current class scope has no parent in C:\xampp\htdocs\soda-php-mvc\libs\controller.php on line 9
+[03-Mar-2024 16:58:04 America/Lima] PHP Fatal error:  Uncaught Error: Cannot access parent:: when current class scope has no parent in C:\xampp\htdocs\soda-php-mvc\libs\controller.php:9
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\controllers\Home.php(8): Libs\Controller->__construct()
+#1 C:\xampp\htdocs\soda-php-mvc\libs\app.php(28): Controllers\Home->__construct()
+#2 C:\xampp\htdocs\soda-php-mvc\index.php(41): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\controller.php on line 9
+[03-Mar-2024 17:08:17 America/Lima] file not found
+[03-Mar-2024 17:09:29 America/Lima] file not found
+[03-Mar-2024 21:09:15 America/Lima] PHP Notice:  Undefined variable: class_controller in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 30
+[03-Mar-2024 21:09:15 America/Lima] PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:30
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 30
+[03-Mar-2024 21:09:25 America/Lima] PHP Notice:  Undefined variable: class_controller in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 30
+[03-Mar-2024 21:09:25 America/Lima] PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:30
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 30
+[03-Mar-2024 21:10:10 America/Lima] PHP Notice:  Undefined variable: class_controller in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 31
+[03-Mar-2024 21:10:10 America/Lima] PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:31
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 31
+[03-Mar-2024 21:25:30 America/Lima] PHP Notice:  Undefined variable: controller_instance in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 39
+[03-Mar-2024 21:25:30 America/Lima] PHP Notice:  Array to string conversion in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 39
+[03-Mar-2024 21:25:30 America/Lima] PHP Notice:  Trying to get property 'Array' of non-object in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 39
+[03-Mar-2024 21:25:30 America/Lima] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 39
+[03-Mar-2024 21:25:40 America/Lima] PHP Notice:  Undefined variable: controller_instance in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 39
+[03-Mar-2024 21:25:40 America/Lima] PHP Notice:  Array to string conversion in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 39
+[03-Mar-2024 21:25:40 America/Lima] PHP Notice:  Trying to get property 'Array' of non-object in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 39
+[03-Mar-2024 21:25:40 America/Lima] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 39
+[03-Mar-2024 21:26:00 America/Lima] PHP Notice:  Array to string conversion in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 39
+[03-Mar-2024 21:26:00 America/Lima] PHP Notice:  Trying to get property 'Array' of non-object in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 39
+[03-Mar-2024 21:26:00 America/Lima] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 39
+[03-Mar-2024 21:26:06 America/Lima] PHP Notice:  Array to string conversion in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 39
+[03-Mar-2024 21:26:06 America/Lima] PHP Notice:  Trying to get property 'Array' of non-object in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 39
+[03-Mar-2024 21:26:06 America/Lima] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 39
+[03-Mar-2024 23:04:45 America/Lima] PHP Notice:  Array to string conversion in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 39
+[03-Mar-2024 23:04:45 America/Lima] PHP Notice:  Trying to get property 'Array' of non-object in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 39
+[03-Mar-2024 23:04:45 America/Lima] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 39
+[03-Mar-2024 23:05:30 America/Lima] PHP Notice:  Array to string conversion in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 41
+[03-Mar-2024 23:05:30 America/Lima] PHP Notice:  Trying to get property 'Array' of non-object in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 41
+[03-Mar-2024 23:05:30 America/Lima] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 41
+[03-Mar-2024 23:05:43 America/Lima] PHP Notice:  Array to string conversion in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 41
+[03-Mar-2024 23:05:43 America/Lima] PHP Notice:  Trying to get property 'Array' of non-object in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 41
+[03-Mar-2024 23:05:43 America/Lima] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 41
+[03-Mar-2024 23:05:47 America/Lima] PHP Notice:  Array to string conversion in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 41
+[03-Mar-2024 23:05:47 America/Lima] PHP Notice:  Trying to get property 'Array' of non-object in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 41
+[03-Mar-2024 23:05:47 America/Lima] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 41
+[03-Mar-2024 23:06:01 America/Lima] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 29
+[03-Mar-2024 23:06:01 America/Lima] PHP Notice:  Array to string conversion in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 42
+[03-Mar-2024 23:06:01 America/Lima] PHP Notice:  Trying to get property 'Array' of non-object in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 42
+[03-Mar-2024 23:06:01 America/Lima] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 42
+[03-Mar-2024 23:06:04 America/Lima] PHP Warning:  Use of undefined constant url - assumed 'url' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 29
+[03-Mar-2024 23:06:04 America/Lima] PHP Notice:  Array to string conversion in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 42
+[03-Mar-2024 23:06:04 America/Lima] PHP Notice:  Trying to get property 'Array' of non-object in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 42
+[03-Mar-2024 23:06:04 America/Lima] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 42
+[03-Mar-2024 23:08:48 America/Lima] PHP Notice:  Array to string conversion in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:08:48 America/Lima] PHP Notice:  Trying to get property 'Array' of non-object in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:08:48 America/Lima] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:08:56 America/Lima] PHP Notice:  Array to string conversion in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:08:56 America/Lima] PHP Notice:  Trying to get property 'Array' of non-object in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:08:56 America/Lima] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:09:13 America/Lima] PHP Notice:  Array to string conversion in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:09:13 America/Lima] PHP Notice:  Trying to get property 'Array' of non-object in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:09:13 America/Lima] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:09:13 America/Lima] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:44
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:09:23 America/Lima] PHP Notice:  Array to string conversion in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:09:23 America/Lima] PHP Notice:  Trying to get property 'Array' of non-object in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:09:23 America/Lima] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:09:23 America/Lima] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:44
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:09:34 America/Lima] PHP Notice:  Array to string conversion in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:09:34 America/Lima] PHP Notice:  Trying to get property 'Array' of non-object in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:09:34 America/Lima] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:09:34 America/Lima] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:44
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:11:06 America/Lima] PHP Notice:  Array to string conversion in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:11:06 America/Lima] PHP Notice:  Trying to get property 'Array' of non-object in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:11:06 America/Lima] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:11:06 America/Lima] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:44
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:11:11 America/Lima] PHP Notice:  Array to string conversion in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:11:11 America/Lima] PHP Notice:  Trying to get property 'Array' of non-object in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:11:11 America/Lima] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:11:11 America/Lima] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:44
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:11:50 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function index() on string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:44
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:14:00 America/Lima] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\soda-php-mvc\index.php on line 25
+[03-Mar-2024 23:14:00 America/Lima] PHP Fatal error:  Uncaught Error: Class 'ucfirst' not found in C:\xampp\htdocs\soda-php-mvc\libs\app.php:43
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 43
+[03-Mar-2024 23:14:28 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function index() on string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:45
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 45
+[03-Mar-2024 23:14:29 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function index() on string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:45
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 45
+[03-Mar-2024 23:14:34 America/Lima] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\soda-php-mvc\index.php on line 25
+[03-Mar-2024 23:14:34 America/Lima] PHP Fatal error:  Uncaught Error: Class 'ucfirst' not found in C:\xampp\htdocs\soda-php-mvc\libs\app.php:43
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 43
+[03-Mar-2024 23:14:39 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function index() on string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:45
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 45
+[03-Mar-2024 23:16:25 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function index() on string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:46
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 46
+[03-Mar-2024 23:16:26 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function index() on string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:46
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 46
+[03-Mar-2024 23:16:33 America/Lima] PHP Warning:  require_once(Controllers\Home): failed to open stream: No such file or directory in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:16:33 America/Lima] PHP Fatal error:  require_once(): Failed opening required 'Controllers\Home' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 44
+[03-Mar-2024 23:16:36 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function index() on string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:46
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 46
+[03-Mar-2024 23:16:43 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function index() on string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:46
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 46
+[03-Mar-2024 23:33:45 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function index() on string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:31
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 31
+[04-Mar-2024 00:01:13 America/Lima] PHP Fatal error:  Uncaught Error: Object of class Controllers\Home could not be converted to string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:30
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 30
+[04-Mar-2024 00:34:16 America/Lima] PHP Notice:  Undefined property: Controllers\Home::$url in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 31
+[04-Mar-2024 00:34:16 America/Lima] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 31
+[04-Mar-2024 00:34:16 America/Lima] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:31
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 31
+[04-Mar-2024 00:34:20 America/Lima] PHP Notice:  Undefined property: Controllers\Home::$url in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 31
+[04-Mar-2024 00:34:20 America/Lima] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 31
+[04-Mar-2024 00:34:29 America/Lima] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 31
+[04-Mar-2024 00:34:29 America/Lima] PHP Notice:  Undefined property: Controllers\Home::$url in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 31
+[04-Mar-2024 00:34:29 America/Lima] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 31
+[04-Mar-2024 00:34:29 America/Lima] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:31
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 31
+[04-Mar-2024 00:34:47 America/Lima] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 32
+[04-Mar-2024 00:34:47 America/Lima] PHP Notice:  Undefined property: Controllers\Home::$url in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 32
+[04-Mar-2024 00:34:47 America/Lima] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 32
+[04-Mar-2024 00:34:47 America/Lima] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:32
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 32
+[04-Mar-2024 00:34:53 America/Lima] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 32
+[04-Mar-2024 00:34:53 America/Lima] PHP Notice:  Undefined property: Controllers\Home::$url in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 32
+[04-Mar-2024 00:34:53 America/Lima] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 32
+[04-Mar-2024 00:34:53 America/Lima] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:32
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 32
+[04-Mar-2024 00:34:55 America/Lima] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 32
+[04-Mar-2024 00:34:55 America/Lima] PHP Notice:  Undefined property: Controllers\Home::$url in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 32
+[04-Mar-2024 00:34:55 America/Lima] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 32
+[04-Mar-2024 00:34:55 America/Lima] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:32
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 32
+[04-Mar-2024 00:52:26 America/Lima] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 33
+[04-Mar-2024 00:52:26 America/Lima] PHP Notice:  Array to string conversion in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 33
+[04-Mar-2024 00:52:26 America/Lima] PHP Notice:  Undefined property: Controllers\Home::$Array in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 33
+[04-Mar-2024 00:52:26 America/Lima] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 33
+[04-Mar-2024 00:52:26 America/Lima] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:33
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 33
+[04-Mar-2024 00:52:33 America/Lima] PHP Notice:  Array to string conversion in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 33
+[04-Mar-2024 00:52:33 America/Lima] PHP Notice:  Undefined property: Controllers\Home::$Array in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 33
+[04-Mar-2024 00:52:33 America/Lima] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 33
+[04-Mar-2024 00:52:33 America/Lima] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:33
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 33
+[04-Mar-2024 00:52:54 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method Controllers\Home::indexs() in C:\xampp\htdocs\soda-php-mvc\libs\app.php:33
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 33
+[04-Mar-2024 01:21:34 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method Controllers\Home::news() in C:\xampp\htdocs\soda-php-mvc\libs\app.php:33
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 33
+[04-Mar-2024 01:21:41 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method Controllers\Home::news() in C:\xampp\htdocs\soda-php-mvc\libs\app.php:33
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 33
+[04-Mar-2024 01:21:42 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method Controllers\Home::news() in C:\xampp\htdocs\soda-php-mvc\libs\app.php:33
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 33
+[04-Mar-2024 01:22:08 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method Controllers\Home::news() in C:\xampp\htdocs\soda-php-mvc\libs\app.php:33
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 33
+[04-Mar-2024 01:22:16 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined method Controllers\Home::news() in C:\xampp\htdocs\soda-php-mvc\libs\app.php:33
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 33
+[04-Mar-2024 01:22:55 America/Lima] PHP Notice:  Undefined variable: method in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 30
+[04-Mar-2024 01:22:55 America/Lima] PHP Fatal error:  Uncaught Error: Method name must be a string in C:\xampp\htdocs\soda-php-mvc\libs\app.php:30
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 30
+[04-Mar-2024 01:25:00 America/Lima] PHP Fatal error:  Uncaught Error: Call to undefined function news() in C:\xampp\htdocs\soda-php-mvc\libs\app.php:33
+Stack trace:
+#0 C:\xampp\htdocs\soda-php-mvc\index.php(43): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 33
+[04-Mar-2024 03:05:46 America/Lima] PHP Warning:  method_exists() expects exactly 2 parameters, 1 given in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 33
+[04-Mar-2024 03:11:26 America/Lima] el metodo no existe
+[04-Mar-2024 03:11:42 America/Lima] el metodo no existe
+[04-Mar-2024 03:17:04 America/Lima] el metodo no existe
+[04-Mar-2024 03:17:10 America/Lima] el metodo no existe
+[04-Mar-2024 03:17:23 America/Lima] el metodo no existe
