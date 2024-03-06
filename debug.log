@@ -1,0 +1,9 @@
+[05-Mar-2024 22:30:51 America/Lima] Error[Parameters] the method requires 1parameters
+[05-Mar-2024 22:30:56 America/Lima] Error[Parameters] the method requires 1parameters
+[05-Mar-2024 22:31:20 America/Lima] Error[Parameters] the method requires 1parameters
+[05-Mar-2024 22:42:33 America/Lima] Error[Parameters] the method requires 1parameters
+[05-Mar-2024 22:44:11 America/Lima] Error[Parameters] the method requires 1parameters
+[05-Mar-2024 22:44:18 America/Lima] PHP Notice:  Undefined variable: n in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 77
+[05-Mar-2024 22:44:18 America/Lima] PHP Notice:  Undefined variable: pars in C:\xampp\htdocs\soda-php-mvc\libs\app.php on line 80
+[05-Mar-2024 22:46:32 America/Lima] Error[Parameters] the method requires 1parameters
+[06-Mar-2024 00:24:09 America/Lima] PHP Notice:  Undefined variable: dataview in C:\xampp\htdocs\soda-php-mvc\views\index.php on line 12

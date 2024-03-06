@@ -8,5 +8,8 @@
 <body>
     <h1>SodaPHP</h1>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat facilis, debitis consequuntur excepturi ab atque quasi sint non ex a voluptatibus nemo quas velit similique asperiores voluptates beatae consectetur rerum.</p>
+    <pre>
+        <?php var_dump($this->dataview); ?>
+    </pre>
 </body>
 </html>

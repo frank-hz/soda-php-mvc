@@ -1,0 +1,2 @@
+<h1>MAIN PAGE</h1>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus dignissimos, maxime dicta similique ad autem amet eius ipsum, dolore omnis cum nihil, voluptates et ullam explicabo dolorem? Ex, velit voluptas.</p>

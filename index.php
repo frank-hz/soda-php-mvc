@@ -10,14 +10,16 @@
     ini_set('ignore_repeat_errors', TRUE);
     // Evita que se muestren los errores en pantalla
     ini_set('display_errors', TRUE);
+    // ini_set('display_errors', FALSE);
     // Establece que se guarden los errores en un archivo
     ini_set('log_erros', TRUE);
     // Define el archivo en el que se guardaran los errores
-    ini_set('error_log', 'room/debug.log');
+    ini_set('error_log', 'debug.log');
 
     
     require_once 'config/config.php';
     require_once 'libs/app.php';
+    require_once 'libs/error.php';
 
     spl_autoload_register(function($class){
         /* convierte '$class' en array
@@ -34,7 +36,8 @@
         // verifica si existe el archivo
         if (!file_exists($file_class)){
             // carga el archivo 
-            echo "archivo no existe";
+            // echo "archivo no existe";
+            error_log('');
             return;
         }
         require_once $file_class;

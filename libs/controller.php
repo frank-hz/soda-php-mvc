@@ -9,11 +9,14 @@
             $this->view = new View();
         }
 
-        public function redirect($url, $dataset = []){
+        /*
+
+        */
+        public function redirect($url, $data_in = []){
             $data = [];
             $params = "";
 
-            foreach ($dataset as $key => $value) {
+            foreach ($data_in as $key => $value) {
                 $data[] = "$k=$v";
             }
 
